@@ -76,7 +76,7 @@ class hookBase:
             self.getTracks()
             time.sleep(self.interval)
 run = True
-match len(sys.argv.pop(0)):
+match len(sys.argv):
     case 2:
         h = hookBase(sys.argv[1], sys.argv[2])
     case 3:
