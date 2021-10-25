@@ -1,7 +1,8 @@
 import requests
 import time
 import sys
-from threading import Thread
+from discord_webhook import DiscordWebhook, DiscordEmbed
+
 
 class hookBase:
     def __init__(self, username, hookurl, interval=1):
@@ -12,29 +13,24 @@ class hookBase:
         self.interval = interval*60 # Interval is set in minutes. Is the duration between checks (duh) for new tracks
         self.curTracks = 0 # Set persistent variable to check if a new track exists
     
-    def sendHook(self, data):
-        data = {
-            "username" : "Audius Music",
-            "avatar_url": "https://avatars1.githubusercontent.com/u/38231615?s=400&u=c00678880596dabd2746dae13a47edbe7ea7210e&v=4"
-        }
-        data["embeds"] = [
-            {
-                "title" : data['title'],
-                "content": f"New music posted by {self.username}",
-                "image": {
-                    'url': data['cover'],
-                    'height': 500,
-                    'width': 500
-                },
-                "type": "rich",
-                "url": data['url']
-            }
-        ]
-        result = requests.post(self.hookurl, json=data)
+    def sendHook(self, dataIn):
+        webhook = DiscordWebhook(url=self.hookurl, username="Audius Music")
+
+        embed = DiscordEmbed(
+            title=dataIn['title'], description=f"New music posted by {self.username}", color='03b2f8'
+        )
+        embed.set_author(
+            name="Audius Music",
+            url="https://audius.co/",
+            icon_url="https://avatars1.githubusercontent.com/u/38231615?s=400&u=c00678880596dabd2746dae13a47edbe7ea7210e&v=4",
+        )
+        embed.set_timestamp()
+        embed.set_image(url=dataIn['cover'])
+        webhook.add_embed(embed)
         try:
-            result.raise_for_status()
-        except:
-            pass
+            webhook.execute()
+        except Exception as e:
+            print(f"Error: {e}")
     
     def getId(self):
         headers = {
@@ -62,13 +58,15 @@ class hookBase:
         if curLen > self.curTracks:
             for i in range(curLen-self.curTracks):
                 curData = r.json()['data'][i]
-                print(f"New track found: {curData['title']}")
                 data = {
                     "cover": curData['artwork']['1000x1000'],
                     "title": curData['title'],
                     "url": f"audius.co{curData['permalink']}"
                 }
-                Thread(target=self.sendHook, args=(data,)).start()
+                try:
+                    self.sendHook(data)
+                except Exception as e:
+                    print(f"Error: {e}")
         self.curTracks = curLen
 
     def run(self):
@@ -77,9 +75,9 @@ class hookBase:
             time.sleep(self.interval)
 run = True
 match len(sys.argv):
-    case 2:
-        h = hookBase(sys.argv[1], sys.argv[2])
     case 3:
+        h = hookBase(sys.argv[1], sys.argv[2])
+    case 4:
         h = hookBase(sys.argv[1], sys.argv[2], sys.argv[3])
     case default:
         run = False

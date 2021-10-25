@@ -1,0 +1,2504 @@
+{
+    "data": [
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmcXBSeQxW3LP9e5M6xZNjomPpJugpqHsFRN7VgeWE7BAS/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmcXBSeQxW3LP9e5M6xZNjomPpJugpqHsFRN7VgeWE7BAS/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmcXBSeQxW3LP9e5M6xZNjomPpJugpqHsFRN7VgeWE7BAS/1000x1000.jpg"
+            },
+            "description": "You said \"Sword And Floor\" so here's sword and floor apparently on the cover.\n\nHad a really fun time making this remix, and I like it significantly more than the Nextra remix I posted a while back. Definitely going to be one of my favorites.",
+            "genre": "Electronic",
+            "id": "1OMpz",
+            "mood": "Upbeat",
+            "release_date": "Sun Oct 24 2021 16:43:20 GMT-0400",
+            "remix_of": {
+                "tracks": [
+                    {
+                        "parent_track_id": "ydbg7"
+                    }
+                ]
+            },
+            "repost_count": 0,
+            "favorite_count": 2,
+            "tags": "remix",
+            "title": "Hurt (Ashe Muller Remix)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 254,
+            "downloadable": false,
+            "play_count": 9,
+            "permalink": "/melodicmycelium/hurt-ashe-muller-remix-1"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmWVzv3K62mYCVk2QpNKFErMLkQMF5N74efCAwpcrwYQUT/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmWVzv3K62mYCVk2QpNKFErMLkQMF5N74efCAwpcrwYQUT/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmWVzv3K62mYCVk2QpNKFErMLkQMF5N74efCAwpcrwYQUT/1000x1000.jpg"
+            },
+            "description": "Sorry guys I had like nothing to eat for lunch today, but they were offering these delicious wobs, so I really couldn't resist... gomen...",
+            "genre": "Experimental",
+            "id": "ENpwo",
+            "mood": "Upbeat",
+            "release_date": "Sat Oct 23 2021 15:50:00 GMT-0400",
+            "remix_of": {
+                "tracks": [
+                    {
+                        "parent_track_id": "P9pAk"
+                    }
+                ]
+            },
+            "repost_count": 1,
+            "favorite_count": 4,
+            "tags": null,
+            "title": "i ate the wobs cause i was hungry\uff08\uff61\u2267 _ \u2266\uff61\uff09",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 153,
+            "downloadable": false,
+            "play_count": 22,
+            "permalink": "/melodicmycelium/i-ate-the-wobs-cause-i-was-hungry\uff08\uff61\u2267-_-\u2266\uff61\uff09"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmTquTYAL5JEAFY3z45Wr5y2GdCtyVuLuoMPWMShVn61wB/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmTquTYAL5JEAFY3z45Wr5y2GdCtyVuLuoMPWMShVn61wB/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmTquTYAL5JEAFY3z45Wr5y2GdCtyVuLuoMPWMShVn61wB/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "MGP9j",
+            "mood": null,
+            "release_date": "Mon Oct 18 2021 11:25:43 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 5,
+            "favorite_count": 11,
+            "tags": null,
+            "title": "Mind Break",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 110,
+            "downloadable": false,
+            "play_count": 36,
+            "permalink": "/melodicmycelium/mind-break"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/Qmems3rfB18sd3PXXZm5unkM5ZY5t7Ff62h3CcVZayx2Us/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/Qmems3rfB18sd3PXXZm5unkM5ZY5t7Ff62h3CcVZayx2Us/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/Qmems3rfB18sd3PXXZm5unkM5ZY5t7Ff62h3CcVZayx2Us/1000x1000.jpg"
+            },
+            "description": "Description",
+            "genre": "Experimental",
+            "id": "gzEyW",
+            "mood": "Other",
+            "release_date": "Sun Oct 17 2021 11:34:58 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 0,
+            "favorite_count": 1,
+            "tags": null,
+            "title": "Russian Schoolchildren Slowly Freezing To Death In A Tundra",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 133,
+            "downloadable": false,
+            "play_count": 19,
+            "permalink": "/melodicmycelium/russian-schoolchildren-slowly-freezing-to-death-in-a-tundra"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmezKb44dtvc9BQKxsMhLkbHcAgna8o3HHfNYjrdJCY3Jt/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmezKb44dtvc9BQKxsMhLkbHcAgna8o3HHfNYjrdJCY3Jt/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmezKb44dtvc9BQKxsMhLkbHcAgna8o3HHfNYjrdJCY3Jt/1000x1000.jpg"
+            },
+            "description": "\"ska\" rendition of harumachi clover using Hatsune Miku",
+            "genre": "Punk",
+            "id": "wygb2",
+            "mood": "Upbeat",
+            "release_date": "Thu Oct 14 2021 18:08:26 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 0,
+            "favorite_count": 2,
+            "tags": null,
+            "title": "Skarumachi Clover (Feat. Hatsune Miku)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 26,
+            "downloadable": false,
+            "play_count": 35,
+            "permalink": "/melodicmycelium/skarumachi-clover-feat-hatsune-miku"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmQba3ebpciENfsKjX5eEYi18nm9CDRVWAxKnhXrGn8tLa/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmQba3ebpciENfsKjX5eEYi18nm9CDRVWAxKnhXrGn8tLa/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmQba3ebpciENfsKjX5eEYi18nm9CDRVWAxKnhXrGn8tLa/1000x1000.jpg"
+            },
+            "description": "this mix gives me disasterpiece vibes",
+            "genre": "Experimental",
+            "id": "6kdzE",
+            "mood": "Upbeat",
+            "release_date": "Thu Oct 14 2021 11:39:48 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 2,
+            "tags": null,
+            "title": "droning ambients and painful melodies (alternative mix)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 125,
+            "downloadable": false,
+            "play_count": 16,
+            "permalink": "/melodicmycelium/droning-ambients-and-painful-melodies-alternative-mix"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmcEvMJswoeTuG9yvWJgums4qchHgqvN9GyCirtDit5vWd/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmcEvMJswoeTuG9yvWJgums4qchHgqvN9GyCirtDit5vWd/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmcEvMJswoeTuG9yvWJgums4qchHgqvN9GyCirtDit5vWd/1000x1000.jpg"
+            },
+            "description": "idk what I'm doing with my life :/",
+            "genre": "Experimental",
+            "id": "pkMN5",
+            "mood": "Peaceful",
+            "release_date": "Tue Oct 12 2021 21:32:40 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 3,
+            "tags": "a",
+            "title": "piano amBience",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 178,
+            "downloadable": false,
+            "play_count": 13,
+            "permalink": "/melodicmycelium/piano-ambience"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX7qryHRHpzQDwFXY6Nq7bxFzZJqTMsQ9hZqrXLEXLy3Y/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX7qryHRHpzQDwFXY6Nq7bxFzZJqTMsQ9hZqrXLEXLy3Y/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX7qryHRHpzQDwFXY6Nq7bxFzZJqTMsQ9hZqrXLEXLy3Y/1000x1000.jpg"
+            },
+            "description": "i'm actually particularly proud of this one",
+            "genre": "Experimental",
+            "id": "Zr8gE",
+            "mood": "Upbeat",
+            "release_date": "Thu Oct 07 2021 20:28:36 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 9,
+            "tags": null,
+            "title": "droning ambients and painful melodies",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 125,
+            "downloadable": false,
+            "play_count": 20,
+            "permalink": "/melodicmycelium/droning-ambients-and-painful-melodies"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "Kv2Br",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 0,
+            "favorite_count": 0,
+            "tags": "horrorwave",
+            "title": "FIN",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 87,
+            "downloadable": false,
+            "play_count": 13,
+            "permalink": "/melodicmycelium/fin"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "bdrEk",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 0,
+            "favorite_count": 0,
+            "tags": "horrorwave",
+            "title": "ESCAPE",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 73,
+            "downloadable": false,
+            "play_count": 8,
+            "permalink": "/melodicmycelium/escape"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "5x9kJ",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 0,
+            "tags": "horrorwave",
+            "title": "NIGHTMARE COLLECTION IV",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 154,
+            "downloadable": false,
+            "play_count": 11,
+            "permalink": "/melodicmycelium/nightmare-collection-iv"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "P9qE0",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 1,
+            "tags": "horrorwave",
+            "title": "NIGHTMARE COLLECTION V",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 94,
+            "downloadable": false,
+            "play_count": 11,
+            "permalink": "/melodicmycelium/nightmare-collection-v"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "YRqrv",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 0,
+            "tags": "horrorwave",
+            "title": "NIGHTMARE COLLECTION III",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 122,
+            "downloadable": false,
+            "play_count": 11,
+            "permalink": "/melodicmycelium/nightmare-collection-iii"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX2pGyoTVqxV6AoUAPQLU6homaJRiPdxsm8PG6sXxNvMA/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "kGrgN",
+            "mood": "Other",
+            "release_date": "Thu Sep 30 2021 20:29:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 0,
+            "favorite_count": 0,
+            "tags": "horrorwave",
+            "title": "NIGHTMARE COLLECTION I",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 134,
+            "downloadable": false,
+            "play_count": 13,
+            "permalink": "/melodicmycelium/nightmare-collection-i-1"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/Qmc5LMmKdDgQM3WBJTfiNEX1y7ERRLmvLxDmmwSerLtNvp/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/Qmc5LMmKdDgQM3WBJTfiNEX1y7ERRLmvLxDmmwSerLtNvp/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/Qmc5LMmKdDgQM3WBJTfiNEX1y7ERRLmvLxDmmwSerLtNvp/1000x1000.jpg"
+            },
+            "description": "NIGHTMARE COLLECTION.\n\nan album by Ashe Muller.\n\ncoming soon.",
+            "genre": "Experimental",
+            "id": "kG31P",
+            "mood": "Other",
+            "release_date": "Tue Sep 21 2021 15:51:01 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 7,
+            "favorite_count": 13,
+            "tags": "creepwave",
+            "title": "NIGHTMARE COLLECTION I",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 134,
+            "downloadable": false,
+            "play_count": 28,
+            "permalink": "/melodicmycelium/nightmare-collection-i"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmYTvf5GYoRra7h6M2ddxgi862CQX1kPhqkQXHEEt7cbzu/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmYTvf5GYoRra7h6M2ddxgi862CQX1kPhqkQXHEEt7cbzu/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmYTvf5GYoRra7h6M2ddxgi862CQX1kPhqkQXHEEt7cbzu/1000x1000.jpg"
+            },
+            "description": "nightmare nightmare nightmare nightmare\n\nyou will have nightmares",
+            "genre": "Experimental",
+            "id": "5xlK2",
+            "mood": "Other",
+            "release_date": "Wed Sep 15 2021 21:41:26 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 10,
+            "favorite_count": 15,
+            "tags": null,
+            "title": "nightmare",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 90,
+            "downloadable": false,
+            "play_count": 25,
+            "permalink": "/melodicmycelium/nightmare"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmPRDnmfZT4PPY1Et4hPxJsXAPEjyKdBkau7msEe6nYwFV/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmPRDnmfZT4PPY1Et4hPxJsXAPEjyKdBkau7msEe6nYwFV/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmPRDnmfZT4PPY1Et4hPxJsXAPEjyKdBkau7msEe6nYwFV/1000x1000.jpg"
+            },
+            "description": "i made a new genre recently apparently",
+            "genre": "Experimental",
+            "id": "2G24d",
+            "mood": "Other",
+            "release_date": "Sun Sep 12 2021 10:58:31 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 8,
+            "favorite_count": 18,
+            "tags": "creepwave",
+            "title": "stalker",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 108,
+            "downloadable": false,
+            "play_count": 14,
+            "permalink": "/melodicmycelium/stalker"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmfNLcWb8VAwEgU5D9EQuZPYHs7TZJZctzgPfnVXaufg3z/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmfNLcWb8VAwEgU5D9EQuZPYHs7TZJZctzgPfnVXaufg3z/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmfNLcWb8VAwEgU5D9EQuZPYHs7TZJZctzgPfnVXaufg3z/1000x1000.jpg"
+            },
+            "description": "good luck trying to sleep after hearing this",
+            "genre": "Experimental",
+            "id": "A9Qlw",
+            "mood": "Other",
+            "release_date": "Sat Sep 11 2021 20:27:47 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 7,
+            "favorite_count": 10,
+            "tags": null,
+            "title": "nothingreallymattersandwereallgoingtodie",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 171,
+            "downloadable": false,
+            "play_count": 15,
+            "permalink": "/melodicmycelium/nothingreallymattersandwereallgoingtodie"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/1000x1000.jpg"
+            },
+            "description": "still idk if this is going to be an album, at least probably an EP at this point, maybe a single?\n\nwho knows! I sure as hell dont'",
+            "genre": "Experimental",
+            "id": "1aary",
+            "mood": "Upbeat",
+            "release_date": "Tue Sep 07 2021 00:53:08 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 3,
+            "favorite_count": 4,
+            "tags": null,
+            "title": "unknown 2",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 122,
+            "downloadable": false,
+            "play_count": 12,
+            "permalink": "/melodicmycelium/unknown-2"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmRPGQEdP9nfQUt9tWw6rqWVKuL9Vh8NN2aVLwjgzqENRf/1000x1000.jpg"
+            },
+            "description": "idk might pick up on another album if I start making more music. Recently, I've had somewhat a drought of creative inspiration, but it comes and goes. This was one of the ideas I had that I liked. This is also one of the rare occasions where I sampled.",
+            "genre": "Experimental",
+            "id": "MGGWQ",
+            "mood": "Upbeat",
+            "release_date": "Mon Sep 06 2021 09:13:32 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 5,
+            "favorite_count": 8,
+            "tags": null,
+            "title": "unknown",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 143,
+            "downloadable": false,
+            "play_count": 17,
+            "permalink": "/melodicmycelium/unknown"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmZRGDyumMaTwaru2ub1LJpxNs1JT6dPuKGJNiBTEoY9XR/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmZRGDyumMaTwaru2ub1LJpxNs1JT6dPuKGJNiBTEoY9XR/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmZRGDyumMaTwaru2ub1LJpxNs1JT6dPuKGJNiBTEoY9XR/1000x1000.jpg"
+            },
+            "description": "got a new toy to mess with :D",
+            "genre": "Ambient",
+            "id": "P9kOJ",
+            "mood": "Melancholy",
+            "release_date": "Sun Sep 05 2021 11:27:00 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 4,
+            "tags": null,
+            "title": "song",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 86,
+            "downloadable": false,
+            "play_count": 41,
+            "permalink": "/melodicmycelium/song"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmY27cXgoxRPDohRJNF2Di8H6aTUvqFZJD2x5BQSkAKMEU/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmY27cXgoxRPDohRJNF2Di8H6aTUvqFZJD2x5BQSkAKMEU/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmY27cXgoxRPDohRJNF2Di8H6aTUvqFZJD2x5BQSkAKMEU/1000x1000.jpg"
+            },
+            "description": "faxing you",
+            "genre": "Electronic",
+            "id": "JGJVZ",
+            "mood": "Upbeat",
+            "release_date": "Thu Aug 26 2021 12:48:06 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 4,
+            "tags": null,
+            "title": "you is a fax machine",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 130,
+            "downloadable": false,
+            "play_count": 18,
+            "permalink": "/melodicmycelium/you-is-a-fax-machine"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmWv3oZpgLGSdQtSRF6JLaNZgzfLT48MZ5GaVUVA1PetZ3/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmWv3oZpgLGSdQtSRF6JLaNZgzfLT48MZ5GaVUVA1PetZ3/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmWv3oZpgLGSdQtSRF6JLaNZgzfLT48MZ5GaVUVA1PetZ3/1000x1000.jpg"
+            },
+            "description": "i had strange vibes while making this idk",
+            "genre": "Experimental",
+            "id": "X9Zlp",
+            "mood": "Upbeat",
+            "release_date": "Tue Aug 24 2021 09:36:10 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 10,
+            "favorite_count": 11,
+            "tags": null,
+            "title": "weird",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 167,
+            "downloadable": false,
+            "play_count": 29,
+            "permalink": "/melodicmycelium/weird"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmR3HsWRgvfx1FQDvCfT2JM9kcXQzzYCcLk9ELgd5CP3Ty/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmR3HsWRgvfx1FQDvCfT2JM9kcXQzzYCcLk9ELgd5CP3Ty/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmR3HsWRgvfx1FQDvCfT2JM9kcXQzzYCcLk9ELgd5CP3Ty/1000x1000.jpg"
+            },
+            "description": "I couldn't come up with a name for this one, but I don't feel like it needs one, either. I feel like it's an idea for sure. I like it as-is, in an idea state. It is a song, too, but an idea. All songs are ideas. anyway, enjoy!",
+            "genre": "Experimental",
+            "id": "AMmPR",
+            "mood": null,
+            "release_date": "Fri Aug 20 2021 19:32:48 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 5,
+            "tags": null,
+            "title": "idea 1",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 112,
+            "downloadable": false,
+            "play_count": 12,
+            "permalink": "/melodicmycelium/idea-1"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmfNwKxepKZrGTWMrj6AvUgMUbFdTWtybb6RnP6HFxphuK/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmfNwKxepKZrGTWMrj6AvUgMUbFdTWtybb6RnP6HFxphuK/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmfNwKxepKZrGTWMrj6AvUgMUbFdTWtybb6RnP6HFxphuK/1000x1000.jpg"
+            },
+            "description": "this entire song filled me with curiosity the entire time I made it, so curious is a fitting name TBH",
+            "genre": "Experimental",
+            "id": "7PRy9",
+            "mood": "Upbeat",
+            "release_date": "Mon Aug 16 2021 16:01:56 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 2,
+            "tags": null,
+            "title": "curious",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 120,
+            "downloadable": false,
+            "play_count": 27,
+            "permalink": "/melodicmycelium/curious"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "l4NpQ",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 3,
+            "tags": "sometimes",
+            "title": "sometimes i drive",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 31,
+            "downloadable": false,
+            "play_count": 16,
+            "permalink": "/melodicmycelium/sometimes-i-drive-1"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "agqBr",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 3,
+            "tags": "sometimes",
+            "title": "sometimes i die",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 72,
+            "downloadable": false,
+            "play_count": 23,
+            "permalink": "/melodicmycelium/sometimes-i-die-2"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "KVJlo",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 3,
+            "tags": "sometimes",
+            "title": "sometimes i think",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 143,
+            "downloadable": false,
+            "play_count": 18,
+            "permalink": "/melodicmycelium/sometimes-i-think-3"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "b4YvJ",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 3,
+            "favorite_count": 5,
+            "tags": "sometimes",
+            "title": "sometimes i compose",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 120,
+            "downloadable": false,
+            "play_count": 15,
+            "permalink": "/melodicmycelium/sometimes-i-compose-3"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "5Kgd7",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 4,
+            "tags": "sometimes",
+            "title": "sometimes i'm unethical",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 131,
+            "downloadable": false,
+            "play_count": 22,
+            "permalink": "/melodicmycelium/sometimes-im-unethical-1"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmeqK3DigeqhruVjR14HDCx4RW6HPBRVvv5MY22WaK4PkZ/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "PkZb1",
+            "mood": null,
+            "release_date": "Sun Aug 15 2021 20:55:03 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 3,
+            "favorite_count": 5,
+            "tags": "sometimes",
+            "title": "sometimes I believe",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 255,
+            "downloadable": false,
+            "play_count": 21,
+            "permalink": "/melodicmycelium/sometimes-i-believe"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmTPxtxDyqvJ2CwCR1CzDJZLsYw9bS5u648B9bDFavb5AM/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmTPxtxDyqvJ2CwCR1CzDJZLsYw9bS5u648B9bDFavb5AM/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmTPxtxDyqvJ2CwCR1CzDJZLsYw9bS5u648B9bDFavb5AM/1000x1000.jpg"
+            },
+            "description": "Original By Kawaii Club and Fantalla released with FeFe Records. Stems used with permission.",
+            "genre": "Electronic",
+            "id": "G292j",
+            "mood": "Upbeat",
+            "release_date": "Sat Jul 24 2021 07:43:36 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 4,
+            "favorite_count": 8,
+            "tags": "feferadiorecords",
+            "title": "Friend Request (Remix)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 106,
+            "downloadable": false,
+            "play_count": 40,
+            "permalink": "/melodicmycelium/friend-request-remix"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmcZrNTX19VhBiCoBrHsMGh9eBLPVQhxAz5RGYh7FYBvUM/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmcZrNTX19VhBiCoBrHsMGh9eBLPVQhxAz5RGYh7FYBvUM/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmcZrNTX19VhBiCoBrHsMGh9eBLPVQhxAz5RGYh7FYBvUM/1000x1000.jpg"
+            },
+            "description": "Ascension (Original Mix) by notashe.\n\nAll Rights Reserved.",
+            "genre": "Electronic",
+            "id": "PkrqN",
+            "mood": "Sophisticated",
+            "release_date": "Thu Jul 22 2021 18:00:18 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 8,
+            "favorite_count": 10,
+            "tags": "progedm,proghouse,pop,lofi,edm,drumandbass,trance",
+            "title": "Ascension (Original Mix)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 404,
+            "downloadable": false,
+            "play_count": 34,
+            "permalink": "/melodicmycelium/ascension-original-mix"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmZZkgTtXwRz3XGdYY6mTAL9XK7xDRzUnbSoM4Nwz5irJ3/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmZZkgTtXwRz3XGdYY6mTAL9XK7xDRzUnbSoM4Nwz5irJ3/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmZZkgTtXwRz3XGdYY6mTAL9XK7xDRzUnbSoM4Nwz5irJ3/1000x1000.jpg"
+            },
+            "description": "Original remix of Hyperlandia by deadmau5.",
+            "genre": "Electronic",
+            "id": "0AxXj",
+            "mood": "Other",
+            "release_date": "Tue Jul 13 2021 13:23:25 GMT-0400",
+            "remix_of": {
+                "tracks": [
+                    {
+                        "parent_track_id": "Wx9do"
+                    }
+                ]
+            },
+            "repost_count": 9,
+            "favorite_count": 17,
+            "tags": "deadmau5,originalbydesigncontest",
+            "title": "nightmarelandia (A Remix Of Hyperlandia)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 458,
+            "downloadable": false,
+            "play_count": 226,
+            "permalink": "/melodicmycelium/nightmarelandia-a-remix-of-hyperlandia-457422"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmNdhxFLjbtf7jSwWNMWNaifN8kLHYH4GbY4yDvb9t9YSS/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmNdhxFLjbtf7jSwWNMWNaifN8kLHYH4GbY4yDvb9t9YSS/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmNdhxFLjbtf7jSwWNMWNaifN8kLHYH4GbY4yDvb9t9YSS/1000x1000.jpg"
+            },
+            "description": "so long...\n\n(i'll be back next week)",
+            "genre": "Electronic",
+            "id": "gmbPZ",
+            "mood": "Energizing",
+            "release_date": "Sat Jul 03 2021 15:28:45 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 9,
+            "favorite_count": 11,
+            "tags": null,
+            "title": "goodbye",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 266,
+            "downloadable": false,
+            "play_count": 44,
+            "permalink": "/melodicmycelium/goodbye-450159"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmbDgojnNfbB2DRUMVEG4Q3w4rYS3pV1Gj7tDfHQn2asn3/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmbDgojnNfbB2DRUMVEG4Q3w4rYS3pV1Gj7tDfHQn2asn3/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmbDgojnNfbB2DRUMVEG4Q3w4rYS3pV1Gj7tDfHQn2asn3/1000x1000.jpg"
+            },
+            "description": "by A Whispering Willow and Romancing An Addict (https://soundcloud.com/burritoandme)",
+            "genre": "Experimental",
+            "id": "7PPl7",
+            "mood": "Other",
+            "release_date": "Mon Jun 14 2021 14:55:44 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 8,
+            "tags": "",
+            "title": "Creare (with Romancing An Addict)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 270,
+            "downloadable": false,
+            "play_count": 18,
+            "permalink": "/melodicmycelium/creare-with-romancing-an-addict-435725"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/1000x1000.jpg"
+            },
+            "description": "by A Whispering Willow. All Rights Reserved.",
+            "genre": "Experimental",
+            "id": "35JJE",
+            "mood": "Brooding",
+            "release_date": "Wed Jun 09 2021 08:12:38 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 3,
+            "tags": "hello,can,you,hear,me",
+            "title": "WHEREAMI.",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 117,
+            "downloadable": true,
+            "play_count": 63,
+            "permalink": "/melodicmycelium/whereami.-431867"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/1000x1000.jpg"
+            },
+            "description": "LIVESTREAM.\n\nby A Whispering Willow. All Rights Reserved.",
+            "genre": "Electronic",
+            "id": "G2Elx",
+            "mood": "Upbeat",
+            "release_date": "Mon Jun 07 2021 21:28:05 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 9,
+            "favorite_count": 13,
+            "tags": "experimental",
+            "title": "LIVESTREAM.",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 146,
+            "downloadable": false,
+            "play_count": 23,
+            "permalink": "/melodicmycelium/livestream.-430418"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmX6Ny2CEBQEedqMFT7Si2YtTRuKL67cfPvgjg8yFb67hJ/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmX6Ny2CEBQEedqMFT7Si2YtTRuKL67cfPvgjg8yFb67hJ/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmX6Ny2CEBQEedqMFT7Si2YtTRuKL67cfPvgjg8yFb67hJ/1000x1000.jpg"
+            },
+            "description": "cover.",
+            "genre": "Soundtrack",
+            "id": "NlJON",
+            "mood": "Other",
+            "release_date": "Thu Jun 03 2021 14:36:06 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 7,
+            "favorite_count": 14,
+            "tags": "issac,foursouls",
+            "title": "Genesis 22:10 (A Whispering Willow Cover)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 58,
+            "downloadable": false,
+            "play_count": 54,
+            "permalink": "/melodicmycelium/genesis-2210-a-whispering-willow-cover-426654"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/1000x1000.jpg"
+            },
+            "description": "he likes jazz.\n\nby A Whispering Willow. All Rights Reserved.",
+            "genre": "Jazz",
+            "id": "YJ8Qr",
+            "mood": "Peaceful",
+            "release_date": "Mon May 31 2021 12:00:06 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 3,
+            "tags": null,
+            "title": "he likes jazz.",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 126,
+            "downloadable": false,
+            "play_count": 13,
+            "permalink": "/melodicmycelium/he-likes-jazz.-423544"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmVogeQYMU3w5FNpzp5vwWzQMdbDqmB2tNgUMyNquxrR3x/1000x1000.jpg"
+            },
+            "description": "HALF AWAKE.\n\nby A Whispering Willow. All Rights Reserved.",
+            "genre": "Experimental",
+            "id": "VQqbP",
+            "mood": "Other",
+            "release_date": "Sun May 30 2021 11:47:27 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 1,
+            "favorite_count": 4,
+            "tags": "weird",
+            "title": "HALF AWAKE.",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 109,
+            "downloadable": false,
+            "play_count": 14,
+            "permalink": "/melodicmycelium/half-awake.-422760"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmToHoj4DAzkK2Qfx7TgReEsYm6CxmJLz1NXD4MLq2v6BP/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmToHoj4DAzkK2Qfx7TgReEsYm6CxmJLz1NXD4MLq2v6BP/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmToHoj4DAzkK2Qfx7TgReEsYm6CxmJLz1NXD4MLq2v6BP/1000x1000.jpg"
+            },
+            "description": "To my loving boyfriend, who's hand I love holding :3\n\n(hand holding censored for obvious reasons)",
+            "genre": "Vaporwave",
+            "id": "BqYBm",
+            "mood": "Peaceful",
+            "release_date": "Sat May 22 2021 17:59:05 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 4,
+            "tags": "lofi",
+            "title": "i like holding your hand <3",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 157,
+            "downloadable": false,
+            "play_count": 30,
+            "permalink": "/melodicmycelium/i-like-holding-your-hand-<3-415086"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmR3QNocicrhefnjFtz1dMhewjTMyG5PCFL8CWSsBz7mbt/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmR3QNocicrhefnjFtz1dMhewjTMyG5PCFL8CWSsBz7mbt/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmR3QNocicrhefnjFtz1dMhewjTMyG5PCFL8CWSsBz7mbt/1000x1000.jpg"
+            },
+            "description": "NOT MINECRAFT MUSIC I SWEAR",
+            "genre": "Electronic",
+            "id": "lv2dK",
+            "mood": "Peaceful",
+            "release_date": "Mon May 17 2021 20:27:42 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 5,
+            "favorite_count": 13,
+            "tags": "minecraft,trippy",
+            "title": "not minecraft music",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 94,
+            "downloadable": false,
+            "play_count": 54,
+            "permalink": "/melodicmycelium/not-minecraft-music-409194"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmefWQjNgzqQZhUKRTsHevRQaRH5FNH8LCXK6gkP42cy54/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmefWQjNgzqQZhUKRTsHevRQaRH5FNH8LCXK6gkP42cy54/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmefWQjNgzqQZhUKRTsHevRQaRH5FNH8LCXK6gkP42cy54/1000x1000.jpg"
+            },
+            "description": "BEACHSIDE DRIVE.\n\nby A Whispering Willow. All Rights Reserved.",
+            "genre": "Ambient",
+            "id": "6EqqM",
+            "mood": "Peaceful",
+            "release_date": "Fri May 14 2021 19:48:25 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 9,
+            "favorite_count": 9,
+            "tags": "lofi,chill",
+            "title": "BEACHSIDE DRIVE",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 108,
+            "downloadable": true,
+            "play_count": 35,
+            "permalink": "/melodicmycelium/beachside-drive-406084"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmaYwH6KKEXYD8Lnhosx98Fkd4zbt3GhHmL2uhzbhNfrDf/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmaYwH6KKEXYD8Lnhosx98Fkd4zbt3GhHmL2uhzbhNfrDf/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmaYwH6KKEXYD8Lnhosx98Fkd4zbt3GhHmL2uhzbhNfrDf/1000x1000.jpg"
+            },
+            "description": "Nextra (A Whispering Willow Remix)\n\nby A Whispering Willow.",
+            "genre": "Electronic",
+            "id": "7YZWA",
+            "mood": "Upbeat",
+            "release_date": "Wed May 12 2021 11:21:32 GMT-0400",
+            "remix_of": {
+                "tracks": [
+                    {
+                        "parent_track_id": "7YmNr"
+                    }
+                ]
+            },
+            "repost_count": 17,
+            "favorite_count": 24,
+            "tags": "deadmau5,nextra,remix,hau5trap,lofi,house,chill",
+            "title": "Nextra (A Whispering Willow Remix)",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 143,
+            "downloadable": false,
+            "play_count": 513,
+            "permalink": "/melodicmycelium/nextra-a-whispering-willow-remix-403269"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "b9PlX",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 7,
+            "favorite_count": 10,
+            "tags": "twitchfriendly",
+            "title": "bunnyhop",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 181,
+            "downloadable": false,
+            "play_count": 31,
+            "permalink": "/melodicmycelium/bunnyhop-401191"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "5jG0M",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 5,
+            "favorite_count": 9,
+            "tags": "twitchfriendly",
+            "title": "konami",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 142,
+            "downloadable": false,
+            "play_count": 32,
+            "permalink": "/melodicmycelium/konami-401190"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "PgM7p",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 8,
+            "tags": "twitchfriendly",
+            "title": "jesus",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 78,
+            "downloadable": false,
+            "play_count": 94,
+            "permalink": "/melodicmycelium/jesus-401189"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "YJMVp",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 4,
+            "favorite_count": 5,
+            "tags": "twitchfriendly",
+            "title": "fullbright",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 231,
+            "downloadable": false,
+            "play_count": 26,
+            "permalink": "/melodicmycelium/fullbright-401188"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "kvNlV",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 11,
+            "tags": "twitchfriendly",
+            "title": "xray",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 154,
+            "downloadable": false,
+            "play_count": 27,
+            "permalink": "/melodicmycelium/xray-401187"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "BqMyY",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 2,
+            "favorite_count": 3,
+            "tags": "twitchfriendly",
+            "title": "timer",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 113,
+            "downloadable": false,
+            "play_count": 40,
+            "permalink": "/melodicmycelium/timer-401186"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "17vdz",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 8,
+            "tags": "twitchfriendly",
+            "title": "noclip",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 115,
+            "downloadable": false,
+            "play_count": 25,
+            "permalink": "/melodicmycelium/noclip-401185"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmXjYranraoUDpwAzuAjacHB3iwvnMXP9c12Thd7BiJkGY/1000x1000.jpg"
+            },
+            "description": null,
+            "genre": "Experimental",
+            "id": "6EzxQ",
+            "mood": "Cool",
+            "release_date": null,
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 5,
+            "favorite_count": 10,
+            "tags": "twitchfriendly",
+            "title": "wavedash",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 178,
+            "downloadable": false,
+            "play_count": 26,
+            "permalink": "/melodicmycelium/wavedash-401184"
+        },
+        {
+            "artwork": {
+                "150x150": "https://content-node.audius.co/ipfs/QmagcTYk4NXf9Uo3p4R48T448r58HJLGf9m2XiivTJPBqn/150x150.jpg",
+                "480x480": "https://content-node.audius.co/ipfs/QmagcTYk4NXf9Uo3p4R48T448r58HJLGf9m2XiivTJPBqn/480x480.jpg",
+                "1000x1000": "https://content-node.audius.co/ipfs/QmagcTYk4NXf9Uo3p4R48T448r58HJLGf9m2XiivTJPBqn/1000x1000.jpg"
+            },
+            "description": "Original video (sampled for the lyrics): https://www.youtube.com/watch?v=Ydx0OVE4AKc",
+            "genre": "House",
+            "id": "4z69Z",
+            "mood": "Other",
+            "release_date": "Wed Apr 28 2021 15:05:20 GMT-0400",
+            "remix_of": {
+                "tracks": null
+            },
+            "repost_count": 6,
+            "favorite_count": 8,
+            "tags": "meme",
+            "title": "I Turned Ligma Into A Sick Electro-House Song",
+            "user": {
+                "album_count": 4,
+                "bio": "side effects may include nightmares, emotional pain, ear bleeding, and potentially death. listen at your own risk.",
+                "cover_photo": {
+                    "640x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/640x.jpg",
+                    "2000x": "https://content-node.audius.co/ipfs/QmRnDQ1cthJG3WkPpyMX3LCaHs2fH9PKRaJbkV6ymQSJbT/2000x.jpg"
+                },
+                "followee_count": 15,
+                "follower_count": 62,
+                "handle": "melodicmycelium",
+                "id": "9Rxoj",
+                "is_verified": false,
+                "location": "Somewhere, United States",
+                "name": "Ashe Muller",
+                "playlist_count": 0,
+                "profile_picture": {
+                    "150x150": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/150x150.jpg",
+                    "480x480": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/480x480.jpg",
+                    "1000x1000": "https://content-node.audius.co/ipfs/QmPXnon2yLHE9ar23xkh1SRgpDCxbNJmZPm93AUMMyGHtn/1000x1000.jpg"
+                },
+                "repost_count": 13,
+                "track_count": 54
+            },
+            "duration": 169,
+            "downloadable": false,
+            "play_count": 98,
+            "permalink": "/melodicmycelium/i-turned-ligma-into-a-sick-electro-house-song"
+        }
+    ]
+}
