@@ -67,6 +67,7 @@ class hookBase:
                     self.sendHook(data)
                 except Exception as e:
                     print(f"Error: {e}")
+                time.sleep(0.25) # Avoid rate limiting by Discord CDN
         self.curTracks = curLen
 
     def run(self):
