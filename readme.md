@@ -1,4 +1,4 @@
-Stupid fucking simple, about to throw this bitch on AWS to run 24/7
+Stupid fucking simple, unless if you're trying to run it on EC2 Linux like me (a masochist)
 
 Requirements:
 - Python >= 3.10.0
