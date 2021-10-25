@@ -5,12 +5,12 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 
 
 class hookBase:
-    def __init__(self, username, hookurl, interval=1):
+    def __init__(self, username, hookurl, interval=5):
         self.host = "https://discovery-b.mainnet.audius.radar.tech/v1"
         self.username = username
         self.id = self.getId()
         self.hookurl = hookurl
-        self.interval = interval*60 # Interval is set in minutes. Is the duration between checks (duh) for new tracks
+        self.interval = interval # Interval is set in minutes. Is the duration between checks (duh) for new tracks
         self.curTracks = 0 # Set persistent variable to check if a new track exists
     
     def sendHook(self, dataIn):
@@ -81,6 +81,6 @@ match len(sys.argv):
         h = hookBase(sys.argv[1], sys.argv[2], sys.argv[3])
     case default:
         run = False
-        print("Not enough args given. Example usage: python audius.py <audius handle> <webhook url> <optional: hook check interval (minutes)>")
+        print("Not enough args given. Example usage: python audius.py <audius handle> <webhook url> <optional: hook check interval (seconds)>")
 if run:
     h.run()
