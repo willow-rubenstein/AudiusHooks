@@ -1,5 +1,6 @@
 import requests
 import time
+import sys
 
 class hookBase:
     def __init__(self, username, interval=1):
@@ -43,5 +44,6 @@ class hookBase:
             self.getTracks()
             time.sleep(self.interval)
 
-h = hookBase("melodicmycelium")
+
+h = hookBase(sys.argv[1])
 h.run()
