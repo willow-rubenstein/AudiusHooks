@@ -77,8 +77,6 @@ class hookBase:
             time.sleep(self.interval)
 run = True
 match len(sys.argv.pop(0)):
-    case 1:
-        h = hookBase(sys.argv[1])
     case 2:
         h = hookBase(sys.argv[1], sys.argv[2])
     case 3:
